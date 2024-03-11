@@ -1,2 +1,3 @@
 # demo1
-ist git hub file
+it is my first git hub repository
+Author-Shubham Bavistale
